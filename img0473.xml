@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Batch 1</folder>
+	<filename>img0473.png</filename>
+	<path>./Batch1\img0473.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>376</ymin>
+			<xmax>707</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>
